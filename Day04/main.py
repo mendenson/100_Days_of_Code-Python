@@ -46,23 +46,23 @@ print(f"Computer chose {game[int(computer_choice)]}.\n")
 
 # programming game possibilities
 if user_choice == "0":
-    if computer_choice == "0":
+    if computer_choice == 0:
         print("Draw!\n")
-    elif computer_choice == "1":
+    elif computer_choice == 1:
         print("You lose!\n")
     else:
         print("You win!\n")
 elif user_choice == "1":
-    if computer_choice == "0":
+    if computer_choice == 0:
         print("You win!\n")
-    elif computer_choice == "1":
+    elif computer_choice == 1:
         print("Draw!\n")
     else:
         print("You lose!\n")
 else:
-    if computer_choice == "0":
+    if computer_choice == 0:
         print("You lose!\n")
-    elif computer_choice == "1":
+    elif computer_choice == 1:
         print("You win!\n")
     else:
         print("Draw!\n")
