@@ -9,4 +9,4 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ### [Day 7 Project: Hangman Game](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day07)
 ### [Day 8 Project: Caesar Cipher](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day08)
 ### [Day 9 Project: Secret Auction Program](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day09)
-### [Day 10 Project: Calculator](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day09)
+### [Day 10 Project: Calculator](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day10)
