@@ -11,3 +11,5 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ### [Day 9 Project: Secret Auction Program](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day09)
 ### [Day 10 Project: Calculator](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day10)
 ### [Day 11 Project: Blackjack Game](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day11)
+### [Day 12 Project: Number Guessing Game](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day12)
+### [Day 14 Project: Influencers Guess](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day14)
