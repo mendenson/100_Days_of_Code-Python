@@ -13,3 +13,4 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ### [Day 11 Project: Blackjack Game (Capstone Project)](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day11)
 ### [Day 12 Project: Number Guessing Game(Global and Local Scope)](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day12)
 ### [Day 14 Project: Influencers Guess](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day14)
+### [Day 15 Project: Coffee Machine](https://github.com/mendenson/100_Days_of_Code-Python/blob/main/Day15/main.py)
