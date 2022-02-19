@@ -16,3 +16,4 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ## Intermediate Projects
 ### [Day 15 Project: Coffee Machine](https://github.com/mendenson/100_Days_of_Code-Python/blob/main/Day15/main.py)
 ### [Day 16 Project: Coffee Machine(Using Object Oriented Programming (OOP))](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day16)
+### [Day 17 Project: The Quiz & Benefits of OOP](https://github.com/mendenson/100_Days_of_Code-Python/tree/main/Day17)
