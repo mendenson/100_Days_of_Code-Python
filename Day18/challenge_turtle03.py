@@ -2,7 +2,7 @@ import turtle as t
 
 from numpy import angle
 
-# Drawing Differents Shapes
+# Drawing Differents Shapes #1
 the_turtle = t.Turtle()
 
 n_sides = 10
