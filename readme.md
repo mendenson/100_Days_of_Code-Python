@@ -1,5 +1,5 @@
-Python Projects
-Learn data science, automation, build websites, games and apps
+# Python Projects
+
 ## Beginner Projects
 ### [Day 1 Project: Band Name Generator (Starting with Python)](https://github.com/mendenson/100_Days_of_Code-Python/blob/main/Day01/main.py)
 ### [Day 2 Project: Tip Calculator (Data Types, Numbers, Operations, Type Conversion, f-Strings)](https://github.com/mendenson/100_Days_of_Code-Python/blob/main/Day02/main.py)
